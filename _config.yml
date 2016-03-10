@@ -1,29 +1,41 @@
-name: Mindfulness FX
-favicon: null
-layout_spectrum: 0.29265065328218043
-typography_spectrum: 0.8329064208082855
 title: Mindfulness FX
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.4629629
+  brandStrength: 0.5023894
+  lightness: 0.5716845
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.6815835083834827
-  lightness: 0.7360693349037319
-  saturation: 0.3738616982009262
-  rhythmicContrast: 0.6684568270575255
-purpose: []
+  rhythmicContrast: 0.4868578
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Mindfulness FX
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.4199522
+layout_spectrum: 0.5167264
