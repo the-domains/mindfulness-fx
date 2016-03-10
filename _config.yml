@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.4629629
-  brandStrength: 0.5023894
-  lightness: 0.5716845
+  saturation: 0.1953405
+  brandStrength: 0.3578256
+  lightness: 0.7078853
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  rhythmicContrast: 0.4868578
+  rhythmicContrast: 0.3160096
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Mindfulness FX
+favicon: null
 opengraph:
   image: null
   type: null
