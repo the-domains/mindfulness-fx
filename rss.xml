@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mindfulness FX]]></title>
+        <description><![CDATA[Mindfulness FX]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Mar 2016 02:09:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Could Mindfulness Cure Austin's Mopacalypse Traffic Woes?]]></title>
+            <description><![CDATA[<article><h1>Could Mindfulness Cure Austin's Mopacalypse Traffic Woes?</h1><p>When I first moved to Austin over 15 years ago, I was struck by how much people complained about the traffic and the weather. And then I realized, because there wasn't much else to complain about. Austin is good livin'.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c84d17308a48e2cdceff8085dc527f8fc4f5b25.jpg"></article>]]></description>
+            <link>http://m.huffpost.com/us/entry/could-mindfulness-cure-au_b_9395692.html</link>
+            <guid isPermaLink="false">d92253c9-1c5a-4922-b7d5-baae9fa47874</guid>
+            <pubDate>Thu, 10 Mar 2016 02:09:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
