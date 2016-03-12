@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mindfulness FX]]></title>
+        <description><![CDATA[Mindfulness FX]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 12 Mar 2016 23:26:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mantras For Finding Happiness]]></title>
+            <description><![CDATA[<article><h1>Mantras For Finding Happiness</h1><p>Feeling stressed? You're not alone. We all have a center of wisdom and balance within us, but sometimes life takes over and we can feel all over the place! We all need a course-correcting tool -- A "GPS for the Soul" -- to help us find our way back to center.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bacabbd8d1e6c0dd462b17878ce0df232ff8349.jpg"></article>]]></description>
+            <link>http://m.huffpost.com/us/entry/lucienne-tabone-gps-guide_us_56e0a56ae4b0860f99d7c282</link>
+            <guid isPermaLink="false">d1dac1c9-a971-43bc-b4b1-33ae872bac50</guid>
+            <pubDate>Sat, 12 Mar 2016 23:26:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
