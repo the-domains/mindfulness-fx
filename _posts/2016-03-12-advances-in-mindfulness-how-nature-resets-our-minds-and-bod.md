@@ -6,9 +6,9 @@ isBasedOnUrl: 'http://www.dailygood.org/more.php?n=6622'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-12T23:10:47.862Z'
-dateModified: '2016-03-12T23:10:42.745Z'
+description: 'Advances in Mindfulness: How Nature Resets Our Minds And Bodies'
+datePublished: '2016-03-12T23:14:17.710Z'
+dateModified: '2016-03-12T23:13:53.361Z'
 author: []
 related: []
 app_links: []
@@ -25,6 +25,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# 
+**Advances in Mindfulness: How Nature Resets Our Minds And Bodies**
 
 <article style=""><h1>DailyGood&amp;colon; How Nature Resets Our Minds and Bodies</h1><img src="http://www.dailygood.org/pics/dg_images/upload/6622.jpg" /></article>
