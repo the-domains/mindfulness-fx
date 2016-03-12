@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Mindfulness FX]]></title>
         <description><![CDATA[Mindfulness FX]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mindfulness-fx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 23:26:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 23:27:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mindfulness-fx/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mindfulness: A deeper approach to navigating organizational change]]></title>
+            <description><![CDATA[<article><h1>Mindfulness: A deeper approach to navigating organizational change</h1><p>Being in the field of organizational change management for the past 15+ years, my team and I have been brought into some of the toughest business/change scenarios out there.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c34aab60e378218a2a3497ebfcebe304644a1bd5.jpg"></article>]]></description>
+            <link>http://smartceo.com/ally-solutions-group-mindfulness-a-deeper-approach-to-change-2/</link>
+            <guid isPermaLink="false">03c69f5b-c0a7-4882-ad89-f285aa4720fc</guid>
+            <pubDate>Sat, 12 Mar 2016 23:27:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mantras For Finding Happiness]]></title>
             <description><![CDATA[<article><h1>Mantras For Finding Happiness</h1><p>Feeling stressed? You're not alone. We all have a center of wisdom and balance within us, but sometimes life takes over and we can feel all over the place! We all need a course-correcting tool -- A "GPS for the Soul" -- to help us find our way back to center.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bacabbd8d1e6c0dd462b17878ce0df232ff8349.jpg"></article>]]></description>
