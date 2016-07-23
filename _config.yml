@@ -35,7 +35,7 @@ color:
     - '#0055A0'
     - '#CF926E'
   brandStrength: 0
-  lightness: 0.4375
+  lightness: 0.5
   saturation: 0.875
   rhythmicContrast: 0.25
 purpose: []
