@@ -1,42 +1,42 @@
-typography_spectrum: 0.4199522
-color:
-  brandColors:
-    - '#F2F1FA'
-    - '#527801'
-    - '#162701'
-    - '#0055A0'
-    - '#CF926E'
-  brandStrength: 0
-  lightness: 0.4375
-  saturation: 0.875
-  rhythmicContrast: 0.25
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.5167264
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: Mindfulness FX
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
+title: Mindfulness FX
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Mindfulness FX
+    permalink:
+      path: '/:title/'
 description: Creating Awareness. Promoting Peace.
-purpose: []
+color:
+  saturation: 0.875
+  brandStrength: 0
+  lightness: 0.4375
+  brandColors:
+    - '#D4E5F7'
+    - '#6E90B3'
+    - '#050D02'
+    - '#B7A98F'
+    - '#445533'
+  rhythmicContrast: 0.25
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Mindfulness FX
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.4199522
+layout_spectrum: 0.5167264
