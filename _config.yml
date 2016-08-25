@@ -1,3 +1,16 @@
+layout_spectrum: 0.9412586642429233
+typography_spectrum: 0.38959603547118604
+color:
+  saturation: 0.7628603361081332
+  brandStrength: 0.4213416378479451
+  lightness: 0.785785190295428
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  rhythmicContrast: 0.363821170758456
 title: Mindfulness FX
 purpose: []
 collections:
@@ -13,17 +26,6 @@ collections:
     permalink:
       path: '/:title/'
 description: Creating Awareness. Promoting Peace.
-color:
-  saturation: 0.875
-  brandStrength: 0
-  lightness: 0.4375
-  brandColors:
-    - '#D4E5F7'
-    - '#6E90B3'
-    - '#050D02'
-    - '#B7A98F'
-    - '#445533'
-  rhythmicContrast: 0.25
 cta:
   bucket: null
   version: null
@@ -38,5 +40,3 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.4199522
-layout_spectrum: 0.5167264
